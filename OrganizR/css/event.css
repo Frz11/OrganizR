@@ -1,0 +1,31 @@
+#image-container{
+  margin-top: 5vh;
+}
+.event-photo{
+    width: 90%!important;
+    margin-left: 6%!important;
+    border:1px solid green;
+    border-radius: 10px;
+}
+#description{
+    font-size: 1.3em;
+    text-align: center;
+    padding: 1%;
+
+}
+#location{
+    font-size: 1.1em;
+    margin-left: 2%;
+    margin-top:5vh;
+}
+.fa-star{
+    color:gray;
+}
+.checked{
+    color:steelblue;
+}
+#rating{
+    font-size: 3em;
+    width: 19vw;
+    margin: auto;
+}
